@@ -6,7 +6,7 @@ export default function Home() {
           Next.js Uygulamasına Hoş Geldiniz
         </h1>
         <p className="text-center text-lg text-gray-600 dark:text-gray-400">
-          Bu basit bir Next.js uygulamasıdır. Ben MERT EHEHEH!!!
+          Bu basit bir Next.js uygulamasıdır. Ben MERT EHEHEH!!!12312312
         </p>
       </div>
     </main>
